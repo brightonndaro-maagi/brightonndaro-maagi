@@ -1,6 +1,6 @@
 # Hi, I'm Maagi 👋
 
-**Data Scientist & UI/UX Designer** | Founder of Softcraft | Dar es Salaam, Tanzania
+**Data Scientist & UI/UX Designer** | Founder of Softworks | Dar es Salaam, Tanzania
 
 Data into insights, ideas into experiences.
 
