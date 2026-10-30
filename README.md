@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Maagi 👋
 
-<!--
-**brightonndaro-maagi/brightonndaro-maagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist & UI/UX Designer** | Founder of Softcraft | Dar es Salaam, Tanzania
 
-Here are some ideas to get you started:
+Data into insights, ideas into experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- 📊 Data analysis: SQL, Python, dashboards
+- 🎨 Branding and social media design
+- 💻 Web and app design
+
+## Featured projects
+- Sales dashboard analysis (coming soon)
+- Tanzania data analysis (coming soon)
+- Customer segmentation (coming soon)
+
+## Contact
+- 📩 brightonmaagi@gmail.com
+- 📸 Instagram: [@brightonmaagi](https://www.instagram.com/brightonmaagi/)
